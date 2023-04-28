@@ -103,3 +103,10 @@ button:hover{
   cursor:pointer;
   background-color:#A9C42D;
 }
+@media (max-width: 950px){
+  .bottom-left-section, .bottom-right-section,.card{
+    width:100%;
+    height:auto;
+  }
+}
+
